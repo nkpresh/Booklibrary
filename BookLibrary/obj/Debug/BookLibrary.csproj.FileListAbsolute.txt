@@ -1,0 +1,15 @@
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe.config
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.Form1.resources
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.Properties.Resources.resources
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csproj.GenerateResource.cache
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.exe
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.pdb
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csprojAssemblyReference.cache
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Precious\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csproj.ResolveComReference.cache
